@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
-    "build": "parcel build C:UsersHPDownloadsHerCode\new-weather-project\new-weather-projectindex (1).html"
+    "build": "parcel build index (1).html"
   },
   "dependencies": {},
   "devDependencies": {
